@@ -1,3 +1,5 @@
+# https://leetcode.com/problems/text-justification/description/
+
 class Line:
     def __init__(self, maxWidth):
         self.words = []
